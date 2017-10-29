@@ -7,8 +7,8 @@ import radams.gracenote.webapi.GracenoteWebAPI;
 
 public class Example
 {
-    private static String clientID  = ""; // Put your clientID here.
-    private static String clientTag = ""; // Put your clientTag here.
+    private static String clientID  = "EXAMPLE"; // Put your clientID here.
+    private static String clientTag = "EXAMPLE"; // Put your clientTag here.
 
     public static void main(String[] args)
     {
