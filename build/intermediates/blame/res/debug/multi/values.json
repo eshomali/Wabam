@@ -1,0 +1,216 @@
+[
+    {
+        "outputFile": "C:\\Users\\essa.shomali\\Desktop\\CSI3370\\gn-mobile-android-1.3.1.5172\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 39,
+                    "endOffset": 90
+                },
+                "from": {
+                    "file": "C:\\Users\\essa.shomali\\Desktop\\CSI3370\\gn-mobile-android-1.3.1.5172\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 1,
+                        "startOffset": 382,
+                        "endColumn": 36,
+                        "endOffset": 417
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 95,
+                    "endColumn": 44,
+                    "endOffset": 135
+                },
+                "from": {
+                    "file": "C:\\Users\\essa.shomali\\Desktop\\CSI3370\\gn-mobile-android-1.3.1.5172\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 1,
+                        "startOffset": 419,
+                        "endColumn": 41,
+                        "endOffset": 459
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 140,
+                    "endColumn": 43,
+                    "endOffset": 179
+                },
+                "from": {
+                    "file": "C:\\Users\\essa.shomali\\Desktop\\CSI3370\\gn-mobile-android-1.3.1.5172\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 1,
+                        "startOffset": 306,
+                        "endColumn": 40,
+                        "endOffset": 345
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 184,
+                    "endColumn": 42,
+                    "endOffset": 222
+                },
+                "from": {
+                    "file": "C:\\Users\\essa.shomali\\Desktop\\CSI3370\\gn-mobile-android-1.3.1.5172\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 1,
+                        "startOffset": 178,
+                        "endColumn": 39,
+                        "endOffset": 216
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 227,
+                    "endColumn": 49,
+                    "endOffset": 272
+                },
+                "from": {
+                    "file": "C:\\Users\\essa.shomali\\Desktop\\CSI3370\\gn-mobile-android-1.3.1.5172\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 1,
+                        "startOffset": 52,
+                        "endColumn": 46,
+                        "endOffset": 97
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 277,
+                    "endColumn": 40,
+                    "endOffset": 313
+                },
+                "from": {
+                    "file": "C:\\Users\\essa.shomali\\Desktop\\CSI3370\\gn-mobile-android-1.3.1.5172\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 1,
+                        "startOffset": 99,
+                        "endColumn": 37,
+                        "endOffset": 135
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 318,
+                    "endColumn": 44,
+                    "endOffset": 358
+                },
+                "from": {
+                    "file": "C:\\Users\\essa.shomali\\Desktop\\CSI3370\\gn-mobile-android-1.3.1.5172\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 1,
+                        "startOffset": 264,
+                        "endColumn": 41,
+                        "endOffset": 304
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 363,
+                    "endColumn": 43,
+                    "endOffset": 402
+                },
+                "from": {
+                    "file": "C:\\Users\\essa.shomali\\Desktop\\CSI3370\\gn-mobile-android-1.3.1.5172\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 1,
+                        "startOffset": 137,
+                        "endColumn": 40,
+                        "endOffset": 176
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 407,
+                    "endColumn": 37,
+                    "endOffset": 440
+                },
+                "from": {
+                    "file": "C:\\Users\\essa.shomali\\Desktop\\CSI3370\\gn-mobile-android-1.3.1.5172\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 1,
+                        "startOffset": 347,
+                        "endColumn": 34,
+                        "endOffset": 380
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 445,
+                    "endColumn": 48,
+                    "endOffset": 489
+                },
+                "from": {
+                    "file": "C:\\Users\\essa.shomali\\Desktop\\CSI3370\\gn-mobile-android-1.3.1.5172\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 1,
+                        "startOffset": 218,
+                        "endColumn": 45,
+                        "endOffset": 262
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 494,
+                    "endColumn": 54,
+                    "endOffset": 544
+                },
+                "from": {
+                    "file": "C:\\Users\\essa.shomali\\Desktop\\CSI3370\\gn-mobile-android-1.3.1.5172\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 54,
+                        "endOffset": 105
+                    }
+                }
+            }
+        ]
+    }
+]

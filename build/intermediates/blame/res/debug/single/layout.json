@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "C:\\Users\\essa.shomali\\Desktop\\CSI3370\\gn-mobile-android-1.3.1.5172\\app\\build\\intermediates\\res\\merged\\debug\\layout\\visual_audio.xml",
+        "source": "C:\\Users\\essa.shomali\\Desktop\\CSI3370\\gn-mobile-android-1.3.1.5172\\app\\src\\main\\res\\layout\\visual_audio.xml"
+    },
+    {
+        "merged": "C:\\Users\\essa.shomali\\Desktop\\CSI3370\\gn-mobile-android-1.3.1.5172\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bio_review.xml",
+        "source": "C:\\Users\\essa.shomali\\Desktop\\CSI3370\\gn-mobile-android-1.3.1.5172\\app\\src\\main\\res\\layout\\bio_review.xml"
+    },
+    {
+        "merged": "C:\\Users\\essa.shomali\\Desktop\\CSI3370\\gn-mobile-android-1.3.1.5172\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tracklist.xml",
+        "source": "C:\\Users\\essa.shomali\\Desktop\\CSI3370\\gn-mobile-android-1.3.1.5172\\app\\src\\main\\res\\layout\\tracklist.xml"
+    },
+    {
+        "merged": "C:\\Users\\essa.shomali\\Desktop\\CSI3370\\gn-mobile-android-1.3.1.5172\\app\\build\\intermediates\\res\\merged\\debug\\layout\\album_review.xml",
+        "source": "C:\\Users\\essa.shomali\\Desktop\\CSI3370\\gn-mobile-android-1.3.1.5172\\app\\src\\main\\res\\layout\\album_review.xml"
+    },
+    {
+        "merged": "C:\\Users\\essa.shomali\\Desktop\\CSI3370\\gn-mobile-android-1.3.1.5172\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hostory_layout.xml",
+        "source": "C:\\Users\\essa.shomali\\Desktop\\CSI3370\\gn-mobile-android-1.3.1.5172\\app\\src\\main\\res\\layout\\hostory_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\essa.shomali\\Desktop\\CSI3370\\gn-mobile-android-1.3.1.5172\\app\\build\\intermediates\\res\\merged\\debug\\layout\\widgetlayout.xml",
+        "source": "C:\\Users\\essa.shomali\\Desktop\\CSI3370\\gn-mobile-android-1.3.1.5172\\app\\src\\main\\res\\layout\\widgetlayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\essa.shomali\\Desktop\\CSI3370\\gn-mobile-android-1.3.1.5172\\app\\build\\intermediates\\res\\merged\\debug\\layout\\text_search.xml",
+        "source": "C:\\Users\\essa.shomali\\Desktop\\CSI3370\\gn-mobile-android-1.3.1.5172\\app\\src\\main\\res\\layout\\text_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\essa.shomali\\Desktop\\CSI3370\\gn-mobile-android-1.3.1.5172\\app\\build\\intermediates\\res\\merged\\debug\\layout\\file_meta_data.xml",
+        "source": "C:\\Users\\essa.shomali\\Desktop\\CSI3370\\gn-mobile-android-1.3.1.5172\\app\\src\\main\\res\\layout\\file_meta_data.xml"
+    },
+    {
+        "merged": "C:\\Users\\essa.shomali\\Desktop\\CSI3370\\gn-mobile-android-1.3.1.5172\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\essa.shomali\\Desktop\\CSI3370\\gn-mobile-android-1.3.1.5172\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\essa.shomali\\Desktop\\CSI3370\\gn-mobile-android-1.3.1.5172\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_dialog.xml",
+        "source": "C:\\Users\\essa.shomali\\Desktop\\CSI3370\\gn-mobile-android-1.3.1.5172\\app\\src\\main\\res\\layout\\custom_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\essa.shomali\\Desktop\\CSI3370\\gn-mobile-android-1.3.1.5172\\app\\build\\intermediates\\res\\merged\\debug\\layout\\histrory_row.xml",
+        "source": "C:\\Users\\essa.shomali\\Desktop\\CSI3370\\gn-mobile-android-1.3.1.5172\\app\\src\\main\\res\\layout\\histrory_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\essa.shomali\\Desktop\\CSI3370\\gn-mobile-android-1.3.1.5172\\app\\build\\intermediates\\res\\merged\\debug\\layout\\detail_view.xml",
+        "source": "C:\\Users\\essa.shomali\\Desktop\\CSI3370\\gn-mobile-android-1.3.1.5172\\app\\src\\main\\res\\layout\\detail_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\essa.shomali\\Desktop\\CSI3370\\gn-mobile-android-1.3.1.5172\\app\\build\\intermediates\\res\\merged\\debug\\layout\\settings.xml",
+        "source": "C:\\Users\\essa.shomali\\Desktop\\CSI3370\\gn-mobile-android-1.3.1.5172\\app\\src\\main\\res\\layout\\settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\essa.shomali\\Desktop\\CSI3370\\gn-mobile-android-1.3.1.5172\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tracklist_row.xml",
+        "source": "C:\\Users\\essa.shomali\\Desktop\\CSI3370\\gn-mobile-android-1.3.1.5172\\app\\src\\main\\res\\layout\\tracklist_row.xml"
+    }
+]
