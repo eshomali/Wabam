@@ -98,7 +98,7 @@ GracenoteMusicIDWidget {
 		Log.i(appString, "GnInit()");
 		
 		// check the client id and tag have been set
-		if ( (GracenoteMusicID.gnsdkClientId == null) || (GracenoteMusicID.gnsdkClientTag == null) ){
+		if ( (GracenoteMusicID.clientID == null) || (GracenoteMusicID.clientTag == null) ){
 			setStatus("Please set Client ID and Client Tag" );
 			Log.e(appString, "client id/tag is null");
 			return;
@@ -126,7 +126,7 @@ GracenoteMusicIDWidget {
 			
 			// get a user, if no user stored persistently a new user is registered and stored 
 			// Note: Android persistent storage used, so no GNSDK storage provider needed to store user
-			gnUser = new GnUser( new GnUserStore(context), GracenoteMusicID.gnsdkClientId, GracenoteMusicID.gnsdkClientTag, appString );
+			gnUser = new GnUser( new GnUserStore(context), GracenoteMusicID.clientID, GracenoteMusicID.clientTag, appString );
 
 			// enable storage provider allowing GNSDK to use its persistent stores
 			GnStorageSqlite.enable();

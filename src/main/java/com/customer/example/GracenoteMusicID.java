@@ -71,11 +71,11 @@ import com.gracenote.gnsdk.*;
 public class GracenoteMusicID extends Activity {
 
 	// set these values before running the sample
-    static final String 				gnsdkClientId 			= null;
-    static final String 				gnsdkClientTag 			= null;
+    static final String 				clientID 			= "1229386339";
+    static final String 				clientTag 			= "325C491B3B2339F178C381BADA2062B5";
 	static final String 				gnsdkLicenseFilename 	= "license.txt";	// app expects this file as an "asset"
 	private static final String    		gnsdkLogFilename 		= "sample.log";
-	private static final String 		appString				= "GFM Sample";
+	private static final String 		appString				= "WABAM";
 	
 	private Activity					activity;
 	private Context 					context;
@@ -128,8 +128,8 @@ public class GracenoteMusicID extends Activity {
 		context  = this.getApplicationContext();
 				
 		// check the client id and tag have been set
-		if ( (gnsdkClientId == null) || (gnsdkClientTag == null) ){
-			showError( "Please set Client ID and Client Tag" );
+		if ( (clientID == null) || (clientTag == null) ) {
+			showError("Please set Client ID and Client Tag");
 			return;
 		}
 		
@@ -155,7 +155,7 @@ public class GracenoteMusicID extends Activity {
 
 			// get a user, if no user stored persistently a new user is registered and stored
 			// Note: Android persistent storage used, so no GNSDK storage provider needed to store a user
-			gnUser = new GnUser( new GnUserStore(context), gnsdkClientId, gnsdkClientTag, appString );
+			gnUser = new GnUser( new GnUserStore(context), clientID, clientTag, appString );
 
 			// enable storage provider allowing GNSDK to use its persistent stores
 			GnStorageSqlite.enable();
@@ -216,7 +216,7 @@ public class GracenoteMusicID extends Activity {
 		}
 
 		setStatus( "" , true);
-		((TextView) findViewById(R.id.sdkVersionText)).setText("Gracenote SDK " + GnManager.productVersion());
+		((TextView) findViewById(R.id.sdkVersionText)).setText("WABAM Music App " + GnManager.productVersion());
 		setUIState( UIState.READY );
 	}
 
