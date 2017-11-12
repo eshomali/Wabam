@@ -1,7 +1,0 @@
-#Mon Oct 30 14:22:48 EDT 2017
-base.0=C\:\\Users\\essa.shomali\\Desktop\\CSI3370\\gn-mobile-android-1.3.1.5172\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_38c7ceb8f7c6d4ffba3281e7cf90fc595939a450
-renamed.1=classes2.dex
-renamed.0=classes.dex
-file.1=C\:\\Users\\essa.shomali\\Desktop\\CSI3370\\gn-mobile-android-1.3.1.5172\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_2c6dd697228da4da2efdf0a7564c772c0a0ce7a2\\classes.dex
-base.1=C\:\\Users\\essa.shomali\\Desktop\\CSI3370\\gn-mobile-android-1.3.1.5172\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_2c6dd697228da4da2efdf0a7564c772c0a0ce7a2
-file.0=C\:\\Users\\essa.shomali\\Desktop\\CSI3370\\gn-mobile-android-1.3.1.5172\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_38c7ceb8f7c6d4ffba3281e7cf90fc595939a450\\classes.dex
